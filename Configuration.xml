@@ -171,6 +171,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Клиенты</Catalog>
+			<Catalog>Организации</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
