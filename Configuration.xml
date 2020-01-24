@@ -173,6 +173,7 @@
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Document>ПриемНаРаботу</Document>
+			<Document>Увольнение</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
