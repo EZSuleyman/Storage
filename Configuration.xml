@@ -170,6 +170,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Клиенты</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
