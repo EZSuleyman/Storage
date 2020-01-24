@@ -172,6 +172,7 @@
 			<Language>Русский</Language>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Организации</Catalog>
+			<Catalog>Партнеры</Catalog>
 			<Document>ПриемНаРаботу</Document>
 			<Document>Увольнение</Document>
 		</ChildObjects>
