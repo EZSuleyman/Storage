@@ -172,6 +172,7 @@
 			<Language>Русский</Language>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Организации</Catalog>
+			<Document>ПриемНаРаботу</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

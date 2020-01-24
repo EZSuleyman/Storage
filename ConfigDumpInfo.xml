@@ -6,7 +6,8 @@
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="0618299c-aa61-4740-8de9-e3d22c55489f"/>
 			<Metadata name="Catalog.Организации.Attribute.НомерТелефона" id="0dca6e5f-edde-4c4c-9c48-c87ba59e514d"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="0983f830-72e1-4f9d-8336-18c66c4c225c" configVersion="57e2cc804bcdc34e923a089d42efb61600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0983f830-72e1-4f9d-8336-18c66c4c225c" configVersion="a85b910615a5f8469a3458f87788f99900000000"/>
+		<Metadata name="Document.ПриемНаРаботу" id="99d5ba22-8547-424b-9123-8546a9cc5afb" configVersion="1fd8f560c17dd547b42b508d7b2b12eb00000000"/>
 		<Metadata name="Language.Русский" id="57b2bc66-67d2-423c-8618-49c104e516fb" configVersion="8de99ca0fd827340aef47d7fd5618a0300000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
